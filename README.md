@@ -1,4 +1,4 @@
-> NUC11BTMi9-hackintosh
+> NUC11BTMi7-hackintosh
 ## For NUC11th generation -NUC11BTMi7/i9,Support installation MacOS ventura
 
 
