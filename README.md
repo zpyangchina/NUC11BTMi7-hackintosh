@@ -33,7 +33,7 @@
 - [x] 板载蓝牙正常
 - [x] 有线网卡驱动正常
 - [ ] 读卡器无SD卡测试，但读卡器走的USB3.2hub，理论上可以使用
-- [ ] 但是无雷电硬件测试
+- [ ] 无雷电硬件测试
 
 参考EFI链接：https://github.com/xiao-chenxi/NUC11BTMi9-hackintosh，感谢 xiao-chenxi，EFI已经很完美了，在此基础上重新定制了USB，升级OpenCore，做了部分适配性的修改。
 
