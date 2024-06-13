@@ -38,13 +38,3 @@
 参考EFI链接：https://github.com/xiao-chenxi/NUC11BTMi9-hackintosh  感谢 xiao-chenxi，EFI已经很完美了，在此基础上重新定制了USB，升级OpenCore，做了部分适配性的修改。
 
 
-
-![61FADA55BAC270C04100F9FBEF7504C6](https://github.com/zpyangchina/NUC11BTMi7-hackintosh/assets/42115887/5fb87b03-180c-4282-9a94-9becb5e2d37b)
-
-![B4CD1F2B3E4BFFF1240FF5109B366665](https://github.com/zpyangchina/NUC11BTMi7-hackintosh/assets/42115887/e54ca566-122b-400f-bf82-d69cd2ede8c6)
-
-![697F2FC60C44D5846F2BFF4A4899F355](https://github.com/zpyangchina/NUC11BTMi7-hackintosh/assets/42115887/17566f32-6ef0-46df-aa46-cc69ab9e141c)
-
-![C7B577EF0FF9EB0376FDB5B032252CC9](https://github.com/zpyangchina/NUC11BTMi7-hackintosh/assets/42115887/76eb1bfd-f41d-41ab-ad7d-246379f57b2a)
-
-![9A7CB91E98497699A56F359EF6360F6B](https://github.com/zpyangchina/NUC11BTMi7-hackintosh/assets/42115887/ef93e0e8-4563-429f-ac7e-67735053fc40)
