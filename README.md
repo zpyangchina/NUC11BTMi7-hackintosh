@@ -16,6 +16,7 @@
 - Advanced
   - Advanced > `PCIE Resizable BAR Support: Disabled`
   - Advanced > Video > `Primary Display: PEG Slot`
+  - Advanced > Video > `Internal graphics > Auto or Disabled`
 - Security
   - Security Features > `Intel VT for Directed I/O(VT-d)：Disabled`
 - Boot
